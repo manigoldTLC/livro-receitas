@@ -6,7 +6,7 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 
 - Pavê
 
-- Bolo de cenoura
+- Bolo de chocolate
 
 - Pudim
 
