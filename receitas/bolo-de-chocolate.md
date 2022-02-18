@@ -1,6 +1,8 @@
-# Bolo de chocolate  :cake:
+# Bolo de chocolate
 
-### Ingredientes - massa
+### Ingredientes
+
+#### massa
 
 - 1 xícara de chá de leite
 - 1 xícara de chá de óleo de soja
@@ -11,8 +13,7 @@
 - 1 colheres de sopa de fermento químico em pó
 
 
-
-### Ingredientes - cobertura
+#### cobertura
 
 - 2 colheres de sopa de manteiga
 - 3 colheres de sopa de achocolatado em pó
@@ -20,17 +21,17 @@
 - 5 colheres de sopa de leite
 
 
+### Modo de preparo
 
-### Modo de preparo - massa
+#### massa
 
 1.  Coloque os líquidos no liquidificador e bata até misturar bem.  
 2.  Coloque os outros ingredientes, sendo o fermento o último. 
 3.  Leve para assar em forno médio, numa forma untada e enfarinhada. 
 
 
+#### cobertura
 
-### Modo de preparo - cobertura
-
-1. Para a cobertura, misture numa panela a manteiga, o achocolatado, o açúcar e o leite.  
-2. Leve ao fogo até derreter e a calda ficar homogênea.  
-3. Cubra o bolo ainda quente, furadinho com garfo. 
+1.  Para a cobertura, misture numa panela a manteiga, o achocolatado, o açúcar e o leite.  
+2.  Leve ao fogo até derreter e a calda ficar homogênea.  
+3.  Cubra o bolo ainda quente, furadinho com garfo. 
